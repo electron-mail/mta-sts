@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: mx1.electronmail.me
 max_age: 86400
